@@ -1,2 +1,30 @@
 /ds.xml
-.java
+
+# Eclipse
+.classpath
+.project
+.class
+.settings/
+
+
+
+# Intellij
+.idea/
+*.iml
+*.iws
+**/out
+/overlays/
+/core/overlays/
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/target
+**/*.log
+**/tmp
+**/.tmp
+**/bin/**
+
+
